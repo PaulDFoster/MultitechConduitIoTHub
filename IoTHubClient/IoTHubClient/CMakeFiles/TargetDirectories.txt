@@ -1,0 +1,3 @@
+/mnt/c/LinuxPlace/MitieIoTHub/IoTHubClient/CMakeFiles/rebuild_cache.dir
+/mnt/c/LinuxPlace/MitieIoTHub/IoTHubClient/CMakeFiles/IoTHubClient.dir
+/mnt/c/LinuxPlace/MitieIoTHub/IoTHubClient/CMakeFiles/edit_cache.dir

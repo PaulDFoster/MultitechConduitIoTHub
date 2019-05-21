@@ -1,0 +1,1 @@
+{"ConnectionString":"HostName=<your iot hub>.azure-devices.net;DeviceId=paulfo-multitech;SharedAccessKey=<your shared access key>","MessagingEnabled":true}
